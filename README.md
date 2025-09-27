@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Felipe Martins 👋
 
 - 💼 Atualmente procuro um estagio
-- 🌱 Estudando Banco de Dados
+- 🎲 Estudando Banco de Dados
 
 <div style="display: inline_block"><br>
 
