@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Felipe Martins 👋
 
-- 💼 Atualmente procuro um estagio
+- 💼 Atualmente procuro um estágio
 - 🎲 Estudando Banco de Dados
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeM-C)](https://github.com/anuraghazra/github-readme-stats)
