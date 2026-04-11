@@ -2,6 +2,7 @@
 
 - 💼 Atualmente procuro um estágio
 - 🎲 Estudando Banco de Dados
+- Faço Tecnologo em "SSistemas para a Internet" na Fatec
 
 <div style="display: inline_block"><br>
 
