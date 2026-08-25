@@ -15,9 +15,3 @@
 📫 Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemchaves/)
-
----
-
-📊 Estatísticas do GitHub:
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemchaves&show_icons=true&theme=default)
