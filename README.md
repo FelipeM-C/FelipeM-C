@@ -1,26 +1,23 @@
-## Olá! Eu me chamo Felipe Martins 👋
+# Olá, eu sou o Felipe 👋
 
-- 💼 Atualmente procuro um estágio
-- 🎲 Estudando Banco de Dados
-- 🎓 Faço Tecnologo em "Sistemas para a Internet" na Fatec
-<div style="display: inline_block"><br>
+🎓 Estudante de **Sistemas para Internet** na Fatec de São Roque
 
-  ##
+💻 Trabalho e estudo com:
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.icons8.com/?size=48&id=21278&format=png">
+🌱 Sempre aprendendo e evoluindo na área de desenvolvimento
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.icons8.com/?size=48&id=20909&format=png">
+📫 Como me encontrar:
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.icons8.com/?size=48&id=J0SgMWzAxqFj&format=png">
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemchaves/)
 
-  ##
- 
-<div> 
+---
 
-  ## Entrar em Contato!
-  <a href="https://www.linkedin.com/in/felipemchaves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+📊 Estatísticas do GitHub:
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemchaves&show_icons=true&theme=default)
